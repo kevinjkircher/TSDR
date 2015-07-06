@@ -12,4 +12,4 @@ Start with TSDR.m, a Matlab wrapper.
 
 Add it and the folder 'Subfunctions' to your path.
 
-Enjoy.
+The documentation should explain things from there.
