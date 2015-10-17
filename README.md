@@ -12,4 +12,7 @@ Start with TSDR.m, a Matlab wrapper.
 
 Add it and the folder 'Subfunctions' to your path.
 
-The documentation should explain things from there.
+Running the optimization routines requires the CVX toolbox, which is 
+freely available at http://cvxr.com/cvx/download/.
+
+Comments in the code should explain things from there.
